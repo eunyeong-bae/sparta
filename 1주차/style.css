@@ -1,0 +1,33 @@
+.container{
+	background-image: url("http://www.forest.go.kr/newkfsweb/cmm/fms/FileDown.do?atchFileId=FILE_000000010008639&fileSn=0");
+	background-size: cover;
+	width: 300px;
+	height: 200px;
+
+	color: white;
+	border-radius: 10px;
+	text-align: center;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+h1{
+	margin: 5px;
+}
+
+h5{
+	margin: 5px;
+}
+
+.wrap{
+	width: 300px;
+	margin: 30px auto 0 auto;
+}
+
+/* CSS에 이 부분을 추가하면 완성! */
+* {
+	font-family: 'Stylish', sans-serif;
+}
